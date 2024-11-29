@@ -1,0 +1,1 @@
+export const API = "https://harmonious-reward-d992125f7e.strapiapp.com/api"
