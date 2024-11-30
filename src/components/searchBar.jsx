@@ -5,7 +5,7 @@ function SearchBar() {
 
   return (
     <div>
-      <nav className="bg-[#0D0D0D] border-b">
+      <nav className="bg-primary border-b">
         <div className="mx-auto max-w-7xl px-2 sm:px-4 lg:px-8">
           <div className="relative flex h-16 items-center justify-between">
             <div className="flex flex-1 items-stretch justify-start">

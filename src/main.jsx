@@ -6,5 +6,5 @@ import './style/main.css'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <ShopPageLayout />
-  </React.StrictMode>,
+  </React.StrictMode>
 )
